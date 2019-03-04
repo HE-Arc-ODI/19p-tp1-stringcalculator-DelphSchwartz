@@ -13,7 +13,7 @@ public class StringCalculator {
    public StringCalculator() {
    }
    
-   public int Add(String numbers){
+   public int add(String numbers){
     int returnNumber = 0;
     boolean cancel = false;
     List<String> delimiters =new ArrayList<String>();
